@@ -7,14 +7,17 @@ python是一容易学习且强大的编程语言。python具有高效的高阶�
 Python’s elegant syntax and dynamic typing, together with its interpreted nature, make it an ideal language for scripting and rapid application development in many areas on most platforms. </br>
 python的简明语法和动态输入，并且具有可解释的本性，是的它成为了一个理想的脚步语言和快速的应用在各大平台上。
 
-The Python interpreter and the extensive standard library are freely available in source or binary form for all major platforms from the Python Web site, https://www.python.org/, and may be freely distributed. The same site also contains distributions of and pointers to many free third party Python modules, programs and tools, and additional documentation.
+The Python interpreter and the extensive standard library are freely available in source or binary form for all major platforms from the Python Web site, https://www.python.org/, and may be freely distributed. The same site also contains distributions of and pointers to many free third party Python modules, programs and tools, and additional documentation</br>
+Python的编译器还有大量的标准库，无论是源代码还是2进制的应用程序，都是可以在各个平台上使用的的。可以在该网站免费获取，和2次开发。该网址还包括了发行的python模块，程序，工具包及其说明文档，还有的第三方模块的使用指针。 
 
-
-The Python interpreter is easily extended with new functions and data types implemented in C or C++ (or other languages callable from C). Python is also suitable as an extension language for customizable applications.
+The Python interpreter is easily extended with new functions and data types implemented in C or C++ (or other languages callable from C). Python is also suitable as an extension language for customizable applications.</br>
+Python 编译器可以很容易的扩张新的功能，和数据类型，只要他们是以c或者c++编写的，或者其他的程序语言可以通过c来读取。python也适合扩张订制化的编程语言。
 
 This tutorial introduces the reader informally to the basic concepts and features of the Python language and system. It helps to have a Python interpreter handy for hands-on experience, but all examples are self-contained, so the tutorial can be read off-line as well.
+该教程介绍了用户一些基本概念，和特征。如果能够在python上实际操作，该教程会更有帮助，所有的实例都是独立的，可以随时下载下来使用。
 
 For a description of standard objects and modules, see The Python Standard Library. The Python Language Reference gives a more formal definition of the language. To write extensions in C or C++, read Extending and Embedding the Python Interpreter and Python/C API Reference Manual. There are also several books covering Python in depth.
+
 
 This tutorial does not attempt to be comprehensive and cover every single feature, or even every commonly used feature. Instead, it introduces many of Python’s most noteworthy features, and will give you a good idea of the language’s flavor and style. After reading it, you will be able to read and write Python modules and programs, and you will be ready to learn more about the various Python library modules described in The Python Standard Library.
 
